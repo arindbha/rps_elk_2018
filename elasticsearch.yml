@@ -1,0 +1,14 @@
+bootstrap.memory_lock: false
+cluster.name: elasticsearch
+http.port: 9200
+node.data: true
+node.ingest: true
+node.master: true
+node.max_local_storage_nodes: 1
+node.name: DESKTOP-55AGI0I
+path.data: D:\Program Files\6.3.0\data
+path.logs: D:\Program Files\6.3.0\logs
+transport.tcp.port: 9300
+xpack.ml.enabled: false
+#xpack.license.self_generated.type: basic
+xpack.security.enabled: false
